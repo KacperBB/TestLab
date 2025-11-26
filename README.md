@@ -55,7 +55,7 @@ A modern, responsive test case management application built with React. Features
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/testlab.git
+git clone https://github.com/KacperBB/TestLab.git
 cd testlab
 ```
 
