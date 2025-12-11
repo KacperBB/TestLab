@@ -10,7 +10,7 @@ function AppRouter() {
   return (
     <BrowserRouter>
       <Routes>
-       
+       <Route path="/dashboard" element={<DashboardPage />} />
         <Route path="/*" element={
           <div className="app-layout">
             <Navigation />
